@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo -n "Enter a number : "
+echo "Enter a number "
 read a
 
-echo -n "Enter a number : "
+echo "Enter a number "
 read b
 
 var=$((a+b))
