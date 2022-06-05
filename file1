@@ -7,4 +7,4 @@ echo -n "Enter a number : "
 read b
 
 var=$((a+b))
-echo $var
+echo "Sum is : $var"
