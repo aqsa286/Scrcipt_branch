@@ -8,3 +8,4 @@ read b
 
 var=$((a+b))
 echo "Result is : $var"
+#new
